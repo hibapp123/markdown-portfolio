@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Python*
+_Big data_
+
+**Artificial intelligence**
+__Leadership__
+
+_Big **data** AI_
